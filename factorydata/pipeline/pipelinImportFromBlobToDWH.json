@@ -1,0 +1,6 @@
+{
+	"name": "pipelinImportFromBlobToDWH",
+	"properties": {
+		"annotations": []
+	}
+}
